@@ -332,6 +332,18 @@ Para qualquer resposta técnica, considerar:
 
 # 13. COMO O CLAUDE DEVE ME AJUDAR
 
+## Contexto sempre atualizado
+
+No início de cada conversa, busque e leia os documentos atualizados diretamente do repositório:
+
+- https://raw.githubusercontent.com/marcosssvinnn/repertorioprojetoop/main/01-projeto-base.md
+- https://raw.githubusercontent.com/marcosssvinnn/repertorioprojetoop/main/02-cronograma-32-semanas.md
+- https://raw.githubusercontent.com/marcosssvinnn/repertorioprojetoop/main/03-pesquisa-mercado-concorrencia.md
+- https://raw.githubusercontent.com/marcosssvinnn/repertorioprojetoop/main/04-banco-padroes-conteudo.md
+
+Sempre use o GitHub como fonte de verdade. Se houver conflito com o Knowledge do projeto, o GitHub prevalece.
+
+
 Quando eu pedir algo neste projeto, considere sempre:
 
 ## Sempre que possível
