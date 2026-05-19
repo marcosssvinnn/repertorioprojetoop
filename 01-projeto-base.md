@@ -391,7 +391,7 @@ Quando eu pedir algo neste projeto, considere sempre:
 
 ---
 
-**Última atualização:** 18/05/2026 — v1.1: territórios centrais definidos (bomba de calor, gerador de cloro, motobomba, robô aspirador); comunidade técnica antecipada para mês 1 como funil gratuito; ticket do produto de entrada ajustado para R$ 197-497.
+**Última atualização:** 19/05/2026 — v1.2 — repositório GitHub ativo e sincronizado com Claude Projects. territórios centrais definidos (bomba de calor, gerador de cloro, motobomba, robô aspirador); comunidade técnica antecipada para mês 1 como funil gratuito; ticket do produto de entrada ajustado para R$ 197-497.
 
 ---
 
