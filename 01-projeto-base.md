@@ -6,10 +6,11 @@
 ---
 
 > **📅 Sistema Vivo — Documento sob revisão quinzenal**
-> **Versão:** 1.2 — atualizado em 18/05/2026
-> **Próxima revisão:** 01/06/2026
+> **Versão:** 1.3 — atualizado em 01/06/2026
+> **Próxima revisão:** 15/06/2026
 > **Marcas prioritárias atuais:** Fluidra + Syllent
 > **Fase atual do projeto:** Pivotagem do perfil (semana 0)
+> **🔔 Negociação ativa:** Parceria B2B com Fluidra Brasil em fase de proposta (não confirmada)
 
 ---
 
@@ -23,9 +24,10 @@
 
 ## Sociedade
 - **Matheus Ribeiro** — expert técnico, rosto do canal, autoridade, treinamentos presenciais, fechamentos B2B
-- **Sócio** — gestão digital, marketing, edição, operação, atendimento, plataforma
+- **Marcos** — gestão digital, marketing, edição, operação, atendimento, plataforma
 
 Divisão financeira proposta: 50/50 do lucro líquido após reinvestimento operacional.
+**Pró-labore acordado:** R$ 12.000/mês para cada sócio. Sobra retida na empresa para reinvestimento.
 
 ## Handle / Nome público
 *A definir — opções em análise:* @matheusmostra, @matheusrevela, @matheusdescomplica, @matheusconta. Posicionamento: "pessoa de saber/ensino" + nome próprio. Definitivo será o que estiver disponível no Instagram + YouTube + TikTok simultaneamente.
@@ -95,6 +97,9 @@ Lojas e distribuidoras que precisam capacitar técnicos terceirizados. Dor: equi
 ## Avatar B2B Fabricantes
 Fluidra e Syllent, Hidroazul. Precisam formar rede técnica qualificada. Dor: assistência técnica ruim danifica reputação da marca. Disposição a pagar: R$ 30.000-200.000 por contrato anual de licenciamento de conteúdo / treinamento chancelado.
 
+> **🔔 Negociação em andamento — Fluidra Brasil (junho 2026):**
+> Proposta comercial enviada para programa contínuo de capacitação técnica da rede de 56 representantes + ~200 lojas KeyPartner. Escopo proposto: 12 vídeos bilíngues (PT/ES) mensais + 3 visitas técnicas regionais + plantão WhatsApp + alinhamento contínuo. Valor mensal proposto: R$ 49.999 (empilhado por unidade: vídeo, diária técnica, plantão, coordenação). Contrato 12 meses, janela de saída sem multa nos primeiros 90 dias, IPCA como reajuste. **Status: aguardando avaliação interna da Fluidra.**
+
 ---
 
 # 4. DADOS DE MERCADO VALIDADOS
@@ -120,10 +125,11 @@ Fluidra e Syllent, Hidroazul. Precisam formar rede técnica qualificada. Dor: as
 # 5. ATIVOS ÚNICOS DO PROJETO
 
 ## Rede de distribuição B2B pronta
-- Acesso a 40+ representantes da Fluidra no Brasil
+- Acesso a 40+ representantes da Fluidra no Brasil (rede real: 56 representantes atendendo ~200 lojas KeyPartner)
 - Relacionamento direto com fabricantes parceiros (Sodramar, Tholz, Hidroazul)
 - Cada representante atende dezenas de lojas; cada loja tem múltiplos técnicos
 - Permite ativar audiência em semanas (não meses)
+- **Proximidade geográfica:** Penha-SC fica a 15 min da matriz Fluidra em Itajaí-SC (ativo logístico estratégico)
 
 ## Autoridade técnica do Matheus
 - 10+ anos de assistência técnica real
@@ -146,6 +152,8 @@ Fluidra e Syllent, Hidroazul. Precisam formar rede técnica qualificada. Dor: as
 3. **Produto de entrada** (mês 5-6): R$ 197-497 — guia técnico ou mini-curso de diagnóstico
 4. **Curso principal** (mês 9-10): R$ 997-1.997
 5. **Comunidade recorrente paga** (mês 6+): R$ 67-127/mês
+
+> **🔔 Fonte de receita adicional em negociação:** Contrato B2B Fluidra Brasil — R$ 49.999/mês recorrente (programa de conteúdo técnico bilíngue + plantão + visitas técnicas). Em fase de proposta, não confirmado.
 
 ## Comunidade técnica — funil prioritário (começa no mês 1)
 
@@ -172,8 +180,21 @@ Fluidra e Syllent, Hidroazul. Precisam formar rede técnica qualificada. Dor: as
 - **Mês 10 (Black Friday):** evento ao vivo + curso completo (R$ 80-300k em 5 dias)
 - **Mês 12:** receita recorrente estável R$ 55-145k/mês
 
-## Investimento inicial
-R$ 2.700-4.500 (equipamento de gravação, domínio, Canva, INPI marca, capital de giro de tráfego inicial)
+## Investimento inicial — atualizado com preços reais de mercado (mai/2026)
+
+R$ 21.250 estimados para setup completo de produção profissional:
+
+| Item | Valor |
+|---|---|
+| Câmera Sony ZV-E10 II + lente 16-50mm (Sony oficial) | R$ 7.740 |
+| Notebook para edição 4K (Intel i7 13ª, RTX 4050, 16GB, SSD 512GB) | R$ 7.000 |
+| Kit iluminação Greika PK-SB01 1200W (2 softbox 50x70cm + tripés) | R$ 1.515 |
+| Microfone sem fio Hollyland Lark M2 Combo (2 transmissores) | R$ 1.350 |
+| HD externo 2TB, painéis acústicos, tripé, bateria, cartão SD, acessórios | R$ 1.645 |
+| Reserva (10%) | R$ 741 |
+| **Total** | **R$ 21.250** |
+
+**Diluição:** depreciar em 12 meses na operação mensal (~R$ 1.770/mês).
 
 ## Operação digital
 - 2 encontros semanais de gravação (terça e quinta, 19-22h)
@@ -266,10 +287,16 @@ R$ 2.700-4.500 (equipamento de gravação, domínio, Canva, INPI marca, capital 
 - Curso + checkout: Kiwify (recomendado pelo custo-benefício)
 - WhatsApp profissional: SocialHub / Manychat / Clint
 - Páginas: Carrd (início) → WordPress + Elementor (escala)
-- Vídeo: celular bom + microfone lapela (RØDE / DJI) + iluminação
-- Edição: CapCut (grátis, faz reframe vertical automático)
+- Vídeo: câmera Sony ZV-E10 II + Hollyland Lark M2 + kit iluminação Greika
+- Edição: Adobe Premiere Pro (CapCut como backup mobile)
 - Artes: Canva Pro
-- IA: ChatGPT Plus / Claude
+- IA: Claude Pro / ChatGPT Pro
+
+## Ferramentas de IA validadas
+- **HeyGen Business** — dublagem PT→ES com sincronia labial (~R$ 530/mês). Validado como melhor opção para dublagem completa de vídeo com lip-sync. Útil tanto para Academy quanto para qualquer contrato bilíngue futuro.
+- **Claude Pro / ChatGPT Pro** — roteiros, scripts, adaptações técnicas, geração de PDFs passo a passo
+- **DeepL Pro** — tradução de textos técnicos
+- **ElevenLabs** — backup para voice-over caso necessário
 
 ## Estrutura de páginas (oficinadapiscina.com.br)
 - `/` — home + apresentação
@@ -351,8 +378,9 @@ Quando eu pedir algo neste projeto, considere sempre:
 - Pergunte por clarificação se a tarefa for ambígua
 - Considere a fase atual do projeto (porta de entrada / expansão / aprofundamento / maturidade)
 - Considere a sazonalidade do mercado
-- Considere que somos uma sociedade Matheus + sócio gestor
+- Considere que somos uma sociedade Matheus + Marcos
 - Considere os 4 territórios centrais ao sugerir pautas: bomba de calor, gerador de cloro, motobomba, robô aspirador
+- **Considere a negociação Fluidra em andamento** — sem alterar a base da Academy, mas reconhecendo que pode haver impacto no cronograma se o contrato for fechado
 
 ## Tipos de tarefas que vou trazer
 - Roteiros de vídeo (longo e Shorts)
@@ -365,6 +393,7 @@ Quando eu pedir algo neste projeto, considere sempre:
 - Documentos administrativos e estruturação societária
 - Plano de tráfego pago e investimento
 - KPIs e análise de métricas
+- **Propostas comerciais B2B** (Fluidra e outros fabricantes)
 
 ## Tom esperado nas respostas
 - Direto e prático
@@ -389,7 +418,7 @@ Quando eu pedir algo neste projeto, considere sempre:
 - [ ] Definir nome final / handle público do Matheus
 - [ ] Validar disponibilidade dos handles em todas as redes
 - [ ] Comprar domínio oficinadapiscina.com.br
-- [ ] Comprar equipamento mínimo de gravação
+- [ ] Comprar equipamento mínimo de gravação (~R$ 21.250 — preços reais 2026)
 - [ ] Criar logo e identidade visual
 - [ ] Pivotar perfil @allservice_assistenciatecnica → novo handle
 - [ ] Abrir CNPJ Oficina da Piscina Academy LTDA
@@ -400,10 +429,11 @@ Quando eu pedir algo neste projeto, considere sempre:
 - [ ] Publicar primeiro vídeo
 - [ ] Ativar rede Fluidra (mensagem nos grupos de representantes)
 - [ ] Fechar primeiro treinamento B2B
+- [ ] **Acompanhar resposta da Fluidra Brasil sobre proposta enviada (junho 2026)**
 
 ---
 
-**Última atualização:** 19/05/2026 — v1.2 — repositório GitHub ativo e sincronizado com Claude Projects. territórios centrais definidos (bomba de calor, gerador de cloro, motobomba, robô aspirador); comunidade técnica antecipada para mês 1 como funil gratuito; ticket do produto de entrada ajustado para R$ 197-497.
+**Última atualização:** 01/06/2026 — v1.3 — adicionada referência à negociação ativa com Fluidra Brasil (proposta enviada, não confirmada). Investimento inicial atualizado com preços reais de mercado (R$ 21.250). Stack tecnológica enriquecida com ferramentas de IA validadas (HeyGen, Claude Pro, DeepL).
 
 ---
 
@@ -420,6 +450,7 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 - [ ] Fase atual do projeto mudou? (porta de entrada → expansão → aprofundamento → maturidade)
 - [ ] Tickets praticados mudaram?
 - [ ] Novos produtos lançados?
+- [ ] Status da negociação Fluidra mudou?
 
 ### 2. Mudanças no mercado/algoritmo
 - [ ] Algoritmo do Instagram/YouTube/TikTok mudou (testar formatos novos)?
@@ -443,11 +474,11 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 ## Como atualizar
 
 1. Abrir o documento
-2. Aumentar a versão no cabeçalho (1.1 → 1.2…)
+2. Aumentar a versão no cabeçalho (1.2 → 1.3…)
 3. Atualizar a data de "última revisão" e "próxima revisão"
 4. Editar as seções que mudaram
 5. Adicionar nota no histórico (ao final)
-6. Salvar e re-fazer upload no Knowledge do Projeto Claude
+6. Salvar e re-fazer upload no Knowledge do Projeto Claude + GitHub
 
 ## Histórico de versões
 
@@ -456,6 +487,7 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 | 1.0 | 14/05/2026 | Criação inicial. Marcas prioritárias: Fluidra + Syllent. Fase: pivotagem do perfil. |
 | 1.1 | 18/05/2026 | 4 territórios centrais definidos (bomba de calor, gerador de cloro, motobomba, robô aspirador). Comunidade técnica antecipada para mês 1 como funil gratuito. Ticket de produto de entrada ajustado para R$ 197-497. |
 | 1.2 | 18/05/2026 | Frase "o que as fábricas não ensinam" proibida. Posicionamento em relação a fabricantes e representantes reescrito como aliança e complemento. Regra adicionada na seção 2 e na seção 13. |
+| 1.3 | 01/06/2026 | Adicionada referência à negociação ativa com Fluidra Brasil (proposta enviada, status não confirmado). Investimento inicial atualizado com preços reais de mercado (R$ 21.250). Stack tecnológica enriquecida com ferramentas de IA (HeyGen, Claude Pro, DeepL, ElevenLabs). Pró-labores acordados (R$ 12k cada). Nome do sócio Marcos adicionado. Proximidade Penha-Itajaí destacada como ativo. |
 
 > Adicionar nova linha aqui em cada revisão.
 
