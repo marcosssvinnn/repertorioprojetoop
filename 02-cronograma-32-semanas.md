@@ -6,10 +6,27 @@
 ---
 
 > **📅 Sistema Vivo — Documento sob revisão quinzenal**
-> **Versão:** 1.0 — criado em 14/05/2026
-> **Próxima revisão:** 28/05/2026
+> **Versão:** 1.1 — atualizado em 01/06/2026
+> **Próxima revisão:** 15/06/2026
 > **Marcas prioritárias atuais:** Fluidra + Syllent
 > **Fase atual do projeto:** Pivotagem do perfil (semana 0)
+> **🔔 Negociação Fluidra em andamento — se confirmada, este cronograma será revisado**
+
+---
+
+> **⚠️ NOTA IMPORTANTE SOBRE A NEGOCIAÇÃO FLUIDRA**
+>
+> Em junho/2026 foi enviada proposta comercial para programa contínuo de capacitação técnica da rede Fluidra Brasil. Se a negociação for fechada:
+>
+> - **Produção mensal:** somam-se 12 vídeos bilíngues PT/ES exclusivos para Fluidra (publicados no YouTube oficial deles, não no canal da Academy)
+> - **Visitas presenciais:** 3 viagens regionais/mês com ~3 dias cada (impacto no tempo do Matheus)
+> - **Plantão WhatsApp:** atendimento contínuo aos 56 representantes
+> - **Reuniões:** 2 alinhamentos mensais com a Fluidra
+>
+> **Impacto operacional no cronograma da Academy:**
+> A produção da Academy precisará ser reorganizada — provavelmente reduzindo a cadência de 2 vídeos longos/semana para 1, ou intercalando semanas. **Decisão pendente até a confirmação do contrato.**
+>
+> **Até lá, este cronograma permanece como o plano oficial.**
 
 ---
 
@@ -483,6 +500,7 @@
 | Anúncio Semana ao Vivo | 27 out | Lista de espera aquecida |
 | 🚀 Semana ao Vivo + Curso | 23-27 nov | R$ 50-300k |
 | Comunidade recorrente | Dezembro | Receita previsível |
+| **🔔 Possível início Fluidra (se contrato fechar)** | A confirmar | R$ 49.999/mês recorrente |
 
 
 ---
@@ -500,6 +518,7 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 - [ ] Fase atual do projeto mudou? (porta de entrada → expansão → aprofundamento → maturidade)
 - [ ] Tickets praticados mudaram?
 - [ ] Novos produtos lançados?
+- [ ] Status da negociação Fluidra mudou? (impacto direto no cronograma)
 
 ### 2. Mudanças no mercado/algoritmo
 - [ ] Algoritmo do Instagram/YouTube/TikTok mudou (testar formatos novos)?
@@ -527,13 +546,14 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 3. Atualizar a data de "última revisão" e "próxima revisão"
 4. Editar as seções que mudaram
 5. Adicionar nota no histórico (ao final)
-6. Salvar e re-fazer upload no Knowledge do Projeto Claude
+6. Salvar e re-fazer upload no Knowledge do Projeto Claude + GitHub
 
 ## Histórico de versões
 
 | Versão | Data | Mudanças principais |
 |--------|------|---------------------|
 | 1.0 | 14/05/2026 | Criação inicial. Marcas prioritárias: Fluidra + Syllent. Fase: pivotagem do perfil. |
+| 1.1 | 01/06/2026 | Adicionada nota sobre negociação Fluidra ativa e seu possível impacto no cronograma (sem alterar o plano oficial enquanto não confirmado). Adicionada linha sobre possível início Fluidra no resumo dos marcos. |
 
 > Adicionar nova linha aqui em cada revisão.
 
