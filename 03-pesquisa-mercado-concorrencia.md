@@ -6,10 +6,11 @@
 ---
 
 > **📅 Sistema Vivo — Documento sob revisão quinzenal**
-> **Versão:** 1.1 — atualizado em 18/05/2026
-> **Próxima revisão:** 01/06/2026
+> **Versão:** 1.2 — atualizado em 01/06/2026
+> **Próxima revisão:** 15/06/2026
 > **Marcas prioritárias atuais:** Fluidra + Syllent
 > **Fase atual do projeto:** Pivotagem do perfil (semana 0)
+> **🔔 Negociação Fluidra ativa — dados reais da rede integrados**
 
 ---
 
@@ -236,14 +237,69 @@ Funciona depois que tem audiência:
 
 # 6. MERCADO B2B (LOJAS, DISTRIBUIDORES, FABRICANTES)
 
-## 6.1 Estrutura do canal Fluidra (e similares)
+## 6.1 Estrutura da Fluidra Brasil (dados reais — atualizado jun/2026)
 
-- Fluidra Brasil tem **40+ representantes comerciais** espalhados pelo país
+A Fluidra Brasil é a operação brasileira do grupo espanhol Fluidra (BME Madri, IBEX 35), 2º maior do mundo em equipamentos de piscina.
+
+| Indicador | Dado |
+|---|---|
+| Vendas globais Fluidra 2025 | €2.184 milhões (+7% YoY) |
+| Lucro líquido global 2025 | €176 milhões (+28%) |
+| Países onde opera | 47 |
+| Funcionários globais | ~6.000-6.500 |
+| Sede global | Barcelona, Espanha |
+| Capital social Fluidra Brasil | R$ 86,75 milhões |
+
+**Unidades ativas no Brasil:**
+
+| Unidade | Cidade | Função |
+|---|---|---|
+| MATRIZ | Itajaí, SC | Administrativo + comercial principal |
+| Filial SP | Valinhos, SP | Distribuição + fábrica de químicos |
+| Filial GO | Goiânia, GO | Distribuição Centro-Oeste |
+
+**Marcas globais da Fluidra:** AstralPool (principal no Brasil), Zodiac (robôs aspiradores), Cepex (válvulas), Veico (trocadores de calor — linha brasileira), Jandy, Polaris, Gre, CTX Professional.
+
+## 6.2 Rede de distribuição Fluidra (real, validada)
+
+| Estrutura | Quantidade | Função |
+|---|---|---|
+| **Representantes Comerciais Fluidra** | **56 pessoas** | Agentes que cuidam de regiões e visitam lojas |
+| **Lojas KeyPartner Fluidra** | **~200 lojas** | Lojistas que vendem produtos Fluidra ao consumidor final |
+| **Técnicos de campo no fim do funil** | ~2.000 técnicos | Atendem instalação e manutenção |
+
+Programa KeyPartner Fluidra (querominhapiscina.com.br + keypartner.com.br) oferece atendimento técnico especializado, produtos originais com garantia, garantia estendida.
+
+**Distribuição geográfica estimada dos 56 representantes:**
+- Sudeste (SP, RJ, MG, ES): 18-22
+- Sul (PR, SC, RS): 10-14
+- Centro-Oeste (DF, GO, MT, MS): 6-9
+- Nordeste (BA, PE, CE e demais): 10-14
+- Norte (AM, PA, RO e demais): 4-6
+
+## 6.3 Movimento estratégico global da Fluidra
+
+**Maio de 2025:** Fluidra adquiriu 100% da **Pooltrackr** — plataforma SaaS que organiza operações de varejo e serviço para profissionais de piscina/spa. Sinaliza estratégia global de transformação digital do setor.
+
+**Implicação:** demanda da Fluidra Brasil por conteúdo técnico digital é execução de estratégia corporativa global, não capricho local. Há orçamento, prioridade e urgência.
+
+## 6.4 Status digital atual da Fluidra Brasil
+
+- Instagram: @fluidrabrasil — 19k seguidores, 1.815 posts (relativamente ativo)
+- YouTube: canal existente mas conteúdo majoritariamente institucional/antigo
+- Treinamentos online: conteúdo da pandemia (2020), soft skills genéricos, desatualizado
+- **Não tem:** biblioteca técnica organizada por produto, trilha de capacitação estruturada, rosto técnico reconhecido, conteúdo de instalação/diagnóstico em vídeo
+
+Esse é o vácuo que a Oficina da Piscina Academy pretende preencher na parceria.
+
+## 6.5 Estrutura geral do canal de fabricantes no Brasil
+
+- Fabricantes (Fluidra, Syllent, Sodramar, Tholz) têm dezenas de representantes
 - Cada representante atende dezenas de lojas/distribuidoras
 - Cada loja tem múltiplos técnicos (instaladores, vendedores técnicos)
-- A própria Fluidra/Syllent NÃO faz treinamento em escala (falta gente, tempo, disposição)
+- Os próprios fabricantes NÃO fazem treinamento em escala (falta gente, tempo, disposição)
 
-## 6.2 Vácuo B2B identificado
+## 6.6 Vácuo B2B identificado
 
 | Quem | O que precisa | O que tem hoje |
 |------|---------------|----------------|
@@ -254,7 +310,7 @@ Funciona depois que tem audiência:
 
 **Resultado:** garantia acionada, equipamento estragado, cliente reclamando, todo mundo perde. Esse é o vácuo que a Oficina da Piscina Academy preenche.
 
-## 6.3 Tickets B2B praticáveis
+## 6.7 Tickets B2B praticáveis
 
 | Tipo de serviço | Ticket estimado |
 |-----------------|-----------------|
@@ -263,6 +319,20 @@ Funciona depois que tem audiência:
 | Treinamento corporativo in-company (fabricante) | R$ 15.000-50.000 |
 | Licenciamento de conteúdo chancelado (anual) | R$ 30.000-200.000 |
 | Palestra em evento de fabricante | R$ 5.000-20.000 |
+| **Programa contínuo de conteúdo + capacitação (recorrente mensal)** | **R$ 40.000-80.000/mês** |
+
+## 6.8 Concorrência da Fluidra no Brasil (relevante para exclusividades)
+
+| Marca | Origem | Especialidade |
+|---|---|---|
+| Sodramar | Brasil, 40+ anos | Gama completa, líder nacional volume |
+| **Syllent** | Brasil | **Motobombas — concorrente direto** |
+| Tholz | Brasil | Aquecimento |
+| Sibrape | Brasil | Bombas, filtros |
+| Nautilus | Brasil | Bombas, filtros |
+| Pentair | EUA | Premium |
+| Hayward | EUA | Premium |
+| Light Tech / Pooltec / Heliotek | Brasil | Categorias específicas |
 
 ---
 
@@ -280,7 +350,7 @@ E — Negócio e carreira (precificação, ferramentas, mercado)
 
 | Marca | Especialidade | Relacionamento atual |
 |-------|---------------|----------------------|
-| Fluidra | Líder mundial, gama completa | Autorizada (Matheus) |
+| Fluidra | Líder mundial, gama completa | Autorizada (Matheus) + **negociação B2B ativa** |
 | Sodramar | Nacional, gama completa | Conhece bem |
 | Tholz | Aquecimento (especialista) | Conhece bem |
 | Genco | Médio porte, gama variada | Conhece bem |
@@ -303,10 +373,11 @@ E — Negócio e carreira (precificação, ferramentas, mercado)
 
 1. **Mercado massivo:** 3,8M de piscinas + 70k novas/ano + 73% com aquecimento + 54% com automação
 2. **Vácuo de educação técnica:** concorrente principal (Piscina Fácil) ensina outra coisa (tratamento de água)
-3. **Acesso B2B real:** 40+ representantes Fluidra como canal de distribuição pronto
+3. **Acesso B2B real:** 56 representantes Fluidra + 200 lojas KeyPartner como canal de distribuição pronto
 4. **Demanda crescente:** quanto mais piscinas com equipamento, mais técnicos precisam
 5. **Ticket alto justificável:** aluno técnico cobra R$ 200-2.000 por atendimento — ROI claro do curso
 6. **Modelo validado:** pessoa + marca funciona em todos os grandes nichos técnicos brasileiros
+7. **Estratégia global Fluidra (Pooltrackr):** mostra demanda real do mercado por digitalização
 
 ## 8.2 Riscos identificados
 
@@ -315,14 +386,16 @@ E — Negócio e carreira (precificação, ferramentas, mercado)
 3. **Capacidade de escala da operação** — Matheus é uma pessoa; precisa de processos pra não virar gargalo
 4. **Saturação do nicho B2B** — fabricantes podem criar suas próprias academies internas
 5. **Mudança de algoritmo (Meta/YouTube)** — diversificar canais é proteção
+6. **Dependência única em contrato grande (Fluidra)** — se confirmar, mitigar com outros B2B em paralelo
+7. **Exclusividade contratual mal escrita** pode bloquear a Academy paralela — atenção redobrada na negociação
 
 ## 8.3 Próximos 90 dias (mais críticos)
 
 | Mês | Foco principal | Marco |
 |-----|----------------|-------|
-| Mês 1 | Pivotagem do perfil + primeiros 4 vídeos | Identidade nova ativa |
-| Mês 2 | Audiência crescendo + começar tráfego pago leve | 1.000 inscritos YT |
-| Mês 3 | Primeiro treinamento B2B fechado | R$ 3-8k de caixa inicial |
+| Mês 1 | Pivotagem do perfil + primeiros 4 vídeos + negociação Fluidra | Identidade nova ativa |
+| Mês 2 | Audiência crescendo + começar tráfego pago leve + resposta Fluidra | 1.000 inscritos YT |
+| Mês 3 | Primeiro treinamento B2B fechado (Fluidra ou outro) | R$ 3-8k de caixa inicial (ou R$ 50k+/mês se Fluidra confirmar) |
 
 ---
 
@@ -334,6 +407,9 @@ E — Negócio e carreira (precificação, ferramentas, mercado)
 - **Meta Analytics:** alcance orgânico Instagram 2026
 - **Estudos de casos públicos:** Piscina Fácil, Sou Eletricista, Manual do Mundo
 - **Análise direta do YouTube/Instagram/TikTok:** mapeamento da concorrência por palavras-chave
+- **Relatórios financeiros Fluidra (BME Madri):** dados globais 2025
+- **Receita Federal / CNPJ Fluidra Brasil:** estrutura jurídica e operacional
+- **Pesquisa direta:** rede de representantes e lojas KeyPartner
 
 ---
 
@@ -342,6 +418,7 @@ E — Negócio e carreira (precificação, ferramentas, mercado)
 - Novos concorrentes relevantes no nicho
 - Mudança importante em algoritmos das plataformas
 - Novas tendências de produto (low-ticket, comunidade, etc.)
+- Avanço na negociação com fabricantes (Fluidra, Syllent, outros)
 
 
 ---
@@ -359,6 +436,7 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 - [ ] Fase atual do projeto mudou? (porta de entrada → expansão → aprofundamento → maturidade)
 - [ ] Tickets praticados mudaram?
 - [ ] Novos produtos lançados?
+- [ ] Status da negociação Fluidra mudou?
 
 ### 2. Mudanças no mercado/algoritmo
 - [ ] Algoritmo do Instagram/YouTube/TikTok mudou (testar formatos novos)?
@@ -386,7 +464,7 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 3. Atualizar a data de "última revisão" e "próxima revisão"
 4. Editar as seções que mudaram
 5. Adicionar nota no histórico (ao final)
-6. Salvar e re-fazer upload no Knowledge do Projeto Claude
+6. Salvar e re-fazer upload no Knowledge do Projeto Claude + GitHub
 
 ## Histórico de versões
 
@@ -394,6 +472,7 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 |--------|------|---------------------|
 | 1.0 | 14/05/2026 | Criação inicial. Marcas prioritárias: Fluidra + Syllent. Fase: pivotagem do perfil. |
 | 1.1 | 18/05/2026 | Frase proibida removida da seção 7.3. Ticket produto de entrada ajustado para R$ 197-497. Alerta de posicionamento adicionado. |
+| 1.2 | 01/06/2026 | Seção 6 (B2B) ampliada com dados reais da Fluidra Brasil: estrutura jurídica, 56 representantes, 200 lojas KeyPartner, distribuição geográfica, aquisição Pooltrackr (estratégia global), status digital atual. Adicionada faixa de ticket para programa contínuo (R$ 40k-80k/mês). Adicionado risco de exclusividade mal escrita. |
 
 > Adicionar nova linha aqui em cada revisão.
 
