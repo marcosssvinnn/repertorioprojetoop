@@ -6,10 +6,11 @@
 ---
 
 > **📅 Sistema Vivo — Documento sob revisão quinzenal**
-> **Versão:** 1.1 — atualizado em 18/05/2026
-> **Próxima revisão:** 01/06/2026
+> **Versão:** 1.2 — atualizado em 01/06/2026
+> **Próxima revisão:** 15/06/2026
 > **Marcas prioritárias atuais:** Fluidra + Syllent
 > **Fase atual do projeto:** Pivotagem do perfil (semana 0)
+> **🔔 Conteúdo B2B Fluidra:** padrões específicos adicionados na seção 15
 
 ---
 
@@ -547,6 +548,88 @@ Antes de publicar qualquer conteúdo, conferir:
 - [ ] Nenhuma especificação técnica inventada
 - [ ] **Nenhuma frase que critique, diminua ou insinue falha de fabricantes, representantes ou vendedores** — Fluidra, Syllent e parceiros são aliados
 
+---
+
+# 15. CONTEÚDO B2B PARA FABRICANTES (novo — v1.2)
+
+> Esta seção contém padrões específicos para conteúdo produzido sob contrato B2B com fabricantes (Fluidra, Syllent, outros). É diferente do conteúdo da Academy — o destino é o canal oficial do fabricante, não nosso.
+
+## 15.1 Diferenças críticas do conteúdo B2B vs Academy
+
+| Aspecto | Conteúdo Academy | Conteúdo B2B (ex: Fluidra) |
+|---|---|---|
+| Canal de publicação | Nosso (YouTube, IG) | Do fabricante (YouTube oficial dele, plataforma de cursos dele) |
+| Identidade visual | Oficina da Piscina Academy | Identidade visual do fabricante (com possível menção a Matheus como apresentador) |
+| Idioma | PT-BR | PT-BR + ES (dublado via IA com lip-sync) |
+| Pautas | Definidas pela gente | Definidas pelo fabricante |
+| Tom de voz | Linguagem "oficina" do Matheus | Mantém autenticidade do Matheus, mas adequado à audiência da marca |
+| CTA | Grupo WhatsApp, e-book, curso | Direcionado pela estratégia do fabricante (não nosso funil) |
+| Manuais | Criados ou organizados por nós | **Manuais oficiais do fabricante anexados** (não criar do zero) |
+
+## 15.2 Padrão de produção de vídeo B2B Fluidra
+
+**Cada vídeo entregue inclui:**
+- Versão em português, gravada e editada com identidade da série
+- Versão dublada em espanhol com sincronia labial via HeyGen
+- Passo a passo escrito em PT e ES (gerado com auxílio de IA, revisado pelo Matheus)
+- Manual oficial Fluidra do equipamento anexado
+- Até 2 revisões inclusas por vídeo
+
+**Estrutura típica do vídeo:**
+- Abertura curta (5-10s) — identidade visual da série + título
+- Apresentação do Matheus como apresentador técnico (10-15s)
+- Conteúdo principal — gravação técnica passo a passo
+- Encerramento com CTA definido pelo fabricante
+
+## 15.3 Tom de voz no conteúdo B2B
+
+**Mesmo Matheus, mas com cuidado adicional:**
+- Manter a autenticidade "de oficina" (não virar locutor robótico)
+- Evitar gírias pesadas (audiência inclui representantes profissionais)
+- Sempre referenciar o equipamento pelo nome oficial da marca
+- Nunca comparar com concorrentes nos vídeos B2B
+- Nunca usar a frase proibida "o que as fábricas não ensinam" — vale dobrado em conteúdo dos próprios fabricantes
+
+## 15.4 Identidade visual do conteúdo B2B
+
+A identidade visual da série B2B é **separada** da identidade da Academy. Geralmente segue:
+- Cores e tipografia do fabricante
+- Logo do fabricante em destaque
+- Possível co-branding "Apresentado por Matheus" (a negociar caso a caso)
+- Bumper/vinheta da série
+- Lower thirds com informação do produto
+
+**Importante:** o investimento em identidade visual da série B2B é único (não recorrente) e gera ativo reutilizável para toda a série de vídeos do contrato.
+
+## 15.5 Pipeline de produção B2B (Fluidra)
+
+1. **Alinhamento mensal** — Fluidra envia pauta dos produtos prioritários do mês
+2. **Planejamento de gravação** — Marcos + Matheus organizam cronograma (blocos concentrados de 2-3 dias gravando vários vídeos)
+3. **Gravação** — equipamento real, oficina/depósito, identidade visual aplicada
+4. **Edição PT** — Marcos edita pessoalmente nos primeiros meses
+5. **Geração do passo a passo PT** — IA gera, Matheus revisa
+6. **Anexação do manual oficial Fluidra** — apenas anexar, não recriar
+7. **Dublagem ES via HeyGen** — sincronia labial automática
+8. **Tradução do passo a passo para ES** — DeepL + revisão
+9. **Entrega do pacote completo** ao cliente:
+   - Vídeo PT
+   - Vídeo ES (dublado com lip-sync)
+   - PDF passo a passo PT
+   - PDF passo a passo ES
+   - Manual oficial Fluidra anexado
+10. **Revisão pelo cliente** — até 2 revisões inclusas
+11. **Publicação** — feita pelo cliente, no canal dele
+
+## 15.6 Checklist publicação B2B
+
+- [ ] Vídeo PT com identidade visual da série aplicada
+- [ ] Vídeo ES com lip-sync funcional (revisado pelo Matheus)
+- [ ] PDF PT formatado e revisado
+- [ ] PDF ES formatado e revisado
+- [ ] Manual oficial do fabricante anexado (PDF original, não recriado)
+- [ ] Nenhuma comparação com concorrentes do contratante
+- [ ] Nenhuma menção a frase proibida
+- [ ] Aprovação do cliente registrada
 
 ---
 
@@ -563,6 +646,7 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 - [ ] Fase atual do projeto mudou? (porta de entrada → expansão → aprofundamento → maturidade)
 - [ ] Tickets praticados mudaram?
 - [ ] Novos produtos lançados?
+- [ ] Status da negociação Fluidra mudou? (afeta seção 15)
 
 ### 2. Mudanças no mercado/algoritmo
 - [ ] Algoritmo do Instagram/YouTube/TikTok mudou (testar formatos novos)?
@@ -586,11 +670,11 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 ## Como atualizar
 
 1. Abrir o documento
-2. Aumentar a versão no cabeçalho (1.0 → 1.1 → 1.2…)
+2. Aumentar a versão no cabeçalho (1.1 → 1.2…)
 3. Atualizar a data de "última revisão" e "próxima revisão"
 4. Editar as seções que mudaram
 5. Adicionar nota no histórico (ao final)
-6. Salvar e re-fazer upload no Knowledge do Projeto Claude
+6. Salvar e re-fazer upload no Knowledge do Projeto Claude + GitHub
 
 ## Histórico de versões
 
@@ -598,6 +682,7 @@ A cada 2 semanas, na primeira segunda-feira disponível, fazer revisão completa
 |--------|------|---------------------|
 | 1.0 | 14/05/2026 | Criação inicial. Marcas prioritárias: Fluidra + Syllent. Fase: pivotagem do perfil. |
 | 1.1 | 18/05/2026 | Removidas todas as ocorrências da frase proibida (apresentação do vídeo, sobre o canal, banner, exemplos de tom, hook). Checklist atualizado com regra de posicionamento. |
+| 1.2 | 01/06/2026 | Adicionada seção 15 — Conteúdo B2B para Fabricantes — com diferenças críticas vs Academy, padrão de produção bilíngue (PT+ES via HeyGen), pipeline detalhado para contratos com fabricantes (Fluidra e outros). |
 
 > Adicionar nova linha aqui em cada revisão.
 
